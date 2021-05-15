@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Adhikari</h1>
-<h3 align="center">A Cool Frontend Developer From India</h3>
+<h3 align="center">A Cool Front-end Developer From India</h3>
 
 - 🌱 I’m currently learning **Ionic Framework**
 
 - 👨‍💻 All of my projects are available at [https://www.abhishekadhikari.rocks/](https://www.abhishekadhikari.rocks/)
 
-- 💬 Ask me about **react, frontend, javascript, typescript.**
+- 💬 Ask me about **React, Frontend, Sass, TypeScript.**
 
-- 📫 How to reach me **abhiayush23@gmail.com**
+- 📫 How to reach me **[hi@abhishekadhikari.rocks](mailto:hi@abhishekadhikari.rocks)**
 
 - 📄 Know about my experiences [https://cdn.abhishekadhikari.rocks/Abhishek_Adhikari_Resume_20210429.pdf](https://cdn.abhishekadhikari.rocks/Abhishek_Adhikari_Resume_20210429.pdf)
 
@@ -53,7 +53,7 @@ My Current Primary Stack includes React, Typescript, Sass, Jest, GraphQL, Nginx,
 
 <h4 align="left">DevOps</h4>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Languages</h4>
