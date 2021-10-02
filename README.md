@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Frontend, Sass, TypeScript.**
 
-- 📫 How to reach me **[hi@abhishekadhikari.rocks](mailto:hi@abhishekadhikari.rocks)**
+- 📫 How to reach me **[contact@abhishekadhikari.rocks](mailto:contact@abhishekadhikari.rocks)**
 
 - 📄 Know about my experiences **[My Resume](https://cdn.abhishekadhikari.rocks/Abhishek_Adhikari_Resume.pdf)**
 
