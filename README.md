@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Adhikari</h1>
-<h3 align="center">A Cool Front-end Developer From India</h3>
+<h3 align="center">Site Reliability Engineer @ Media.Net & hobbyist Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **Ionic Framework**
 
