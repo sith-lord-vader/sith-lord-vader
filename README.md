@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ionic Framework**
 
-- 👨‍💻 All of my projects are available at **[https://www.abhishekadhikari.rocks/](https://www.lordvader.me/)**
+- 👨‍💻 All of my projects are available at **[https://github.com/sith-lord-vader](https://www.lordvader.me/)**
 
 - 💬 Ask me about **React, Frontend, Sass, TypeScript.**
 
