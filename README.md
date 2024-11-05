@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ionic Framework**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/sith-lord-vader](https://www.lordvader.me/)**
+- 👨‍💻 My portfolio site is available at **[https://www.lordvader.me/](https://www.lordvader.me/)**
 
 - 💬 Ask me about **React, Frontend, Sass, TypeScript.**
 
