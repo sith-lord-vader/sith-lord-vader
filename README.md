@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **Ionic Framework**
 
-- 👨‍💻 All of my projects are available at **[https://www.abhishekadhikari.rocks/](https://www.abhishekadhikari.rocks/)**
+- 👨‍💻 All of my projects are available at **[https://www.abhishekadhikari.rocks/](https://www.lordvader.me/)**
 
 - 💬 Ask me about **React, Frontend, Sass, TypeScript.**
 
-- 📫 How to reach me **[contact@abhishekadhikari.rocks](mailto:sith@lordvader.me)**
-
-- 📄 Know about my experiences **[My Resume](https://cdn.abhishekadhikari.rocks/Abhishek_Adhikari_Resume.pdf)**
+- 📫 How to reach me **[sith@lordvader.me](mailto:sith@lordvader.me)**
 
 - ⚡ Fun fact **I may look serious n boring but I'm rather funny and cool.**
 
